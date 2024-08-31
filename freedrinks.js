@@ -4,11 +4,11 @@
     - Else Coke: 30tk
  */
 
-var burgerPrice = 500;
+var burgerPrice = 400;
 
 if(burgerPrice >=500){
-    console.log("You get a free drink")
+    console.log("You get a free drink..!")
 }
 else{
-    console.log("You have to pay 30 taka for a coke")
+    console.log("You have to pay 30 taka for a coke..")
 }
